@@ -1,0 +1,22 @@
+{
+	"ProjectName": "react-todo",
+	"ProjectPath": "/Users/tsukagk/Dev/CANON/react-todo",
+	"SourceDir": "src",
+	"DistributionDir": "build",
+	"BuildCommand": "npm start",
+	"StartCommand": "npm run test",
+	"InitializationTime": "2017-12-06-11-38-48",
+	"LastConfigurationTime": "2017-12-06-11-39-08",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastBuildTime": "",
+	"BackendLastUpdateTime": "",
+	"BackendLastUpdateSuccessful": false,
+	"BackendProjectID": "ecf6aa97-530d-47c3-8a3b-140d03918edd",
+	"BackendProjectName": "react-todo",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/ecf6aa97-530d-47c3-8a3b-140d03918edd/build",
+	"BackendProjectCreationTime": "2017-12-06T01:06:54.917Z",
+	"BackendProjectLastUpdatedTime": "2017-12-06T01:07:09.463Z"
+}

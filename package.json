@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "aws-amplify": "^0.1.20",
+    "aws-amplify": "^0.1.0",
     "aws-amplify-react": "^0.1.23",
     "material-ui": "^0.20.0",
     "prop-types": "^15.6.0",
