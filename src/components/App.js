@@ -7,7 +7,6 @@ import AppBar from 'material-ui/AppBar'
 
 class App extends Component {
     render() {
-        Analytics.record('appRender');
         return (
             <MuiThemeProvider>
                 <div className="App">
